@@ -1,0 +1,21 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data and generated artifacts
+data/
+outputs/
+*.joblib
+*.pkl
+*.npz
+*.csv
+*.json
+*.parquet
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Notebook checkpoints
+notebooks/.ipynb_checkpoints/
